@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: http://blog.oisme.cn
+redirect_url: http://blog.dongxiang.io
 ---
